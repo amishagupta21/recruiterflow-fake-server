@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Women Jeans",
+      "description": "Buy Jeans for Women online at best prices.",
+      "img":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Skirt",
+      "description": "Buy skirt for Women online at best prices.",
+      "img":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Women Pants",
+      "description": "Buy Pants for Women online at best prices.",
+      "img":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Side Bags",
+      "description": "Buy Bags for Women online at best prices.",
+      "img":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Bangles",
+      "description": "Bangles for Women online at best prices.",
+      "img":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Ear Ring",
+      "description": "Buy ear ring for Women online at best prices.",
+      "img":"https://www.apple.com/newsroom/images/product/iphone/standard/Apple-iPhone-14-iPhone-14-Plus-hero-220907_Full-Bleed-Image.jpg.large.jpg"
+    }
+   
+  ]
+}
